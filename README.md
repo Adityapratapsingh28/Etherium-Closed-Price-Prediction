@@ -27,5 +27,5 @@ The Frontend is made using simple html and css , that takes 3 inputs - Etherium 
 - style.css : for styling the components.
 
 ## Video Display -
+https://github.com/Adityapratapsingh28/Etherium-Closed-Price-Prediction/assets/143888880/12293911-5862-4a3f-81e1-d48dd3889b9f
 
-  
